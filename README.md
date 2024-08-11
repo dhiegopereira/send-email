@@ -88,7 +88,3 @@ Se ainda tiver problemas:
 
 - **Rever Configurações**: Certifique-se de que as configurações de segurança e a senha do aplicativo estão corretas.
 - **Consultar a [Central de Ajuda do Gmail](https://support.google.com/mail/)** para informações adicionais.
-
----
-
-Adicione essas instruções ao seu README para fornecer um guia claro e completo sobre como configurar e usar o Nodemailer com o Gmail.
